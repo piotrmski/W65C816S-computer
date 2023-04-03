@@ -1,5 +1,7 @@
 # W65C816S single-board computer
 
+![Photo](photo.jpg)
+
 The following repository documents my novice attempt at designing a microprocessor single-board computer. I had fun putting this design together, however without any prior experience it's left with many flaws which should be addressed if anyone would want to implement it again.
 
 It's a KiCad project, however a single-page PDF of the schematic and gerber files are included, so KiCad is not required to preview it.
